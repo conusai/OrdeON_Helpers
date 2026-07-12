@@ -1,11 +1,12 @@
 {
   "app": "OrdeON Merchant",
-  "version": "1.0.1",
-  "androidVersionCode": 2,
-  "iosBuildNumber": "6",
+  "version": "1.2.0",
+  "runtimeVersion": "1.2.0",
+  "androidVersionCode": 9,
+  "iosBuildNumber": "13",
   "appStoreConnectId": "6790126961",
   "expoProjectId": "2f6cbdd5-0e91-4fcb-8836-91fe551ffc80",
   "expoUpdatesChannel": "production",
-  "apkUrl": "https://expo.dev/artifacts/eas/qSUUV2nZS6Mz8UxkCWN9BF4jMyPqpl-MKn18vgs9GQw.apk",
-  "releaseNotes": "OrdeON Merchant 1.0.1: refreshed production release with kitchen, orders, tabs, reservations, catalog and AI order insights."
+  "apkUrl": "https://expo.dev/artifacts/eas/G9kjDH1OWtimVGMnopncw4kPxN5IdXx6S7lun9HyD7I.apk",
+  "releaseNotes": "OrdeON Merchant 1.2.0: universal links (kitchen, reservations, orders, QR auth), reservation email deep links with date/booking, settings scroll fix, runtime version 1.2.0 for native rebuild."
 }

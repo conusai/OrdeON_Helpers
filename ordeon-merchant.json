@@ -7,6 +7,7 @@
   "appStoreConnectId": "6790126961",
   "expoProjectId": "2f6cbdd5-0e91-4fcb-8836-91fe551ffc80",
   "expoUpdatesChannel": "production",
+  "testFlightUrl": "https://testflight.apple.com/join/JfhRKh82",
   "apkUrl": "https://expo.dev/artifacts/eas/G9kjDH1OWtimVGMnopncw4kPxN5IdXx6S7lun9HyD7I.apk",
   "releaseNotes": "OrdeON Merchant 1.2.0: universal links (kitchen, reservations, orders, QR auth), reservation email deep links with date/booking, settings scroll fix, runtime version 1.2.0 for native rebuild."
 }
